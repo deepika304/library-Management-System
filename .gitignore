@@ -1,0 +1,7 @@
+out/
+*.class
+db.properties
+lib/*.jar
+sources.txt
+.idea/
+*.iml
